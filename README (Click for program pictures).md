@@ -1,4 +1,4 @@
-About
+About<br>
 Mock Red Lobster Restaurant reservation system: includes website UI, Java backend, submissions fed to MySQL database. A CRUD demo is shown below.
 
 CREATE <br>
@@ -6,7 +6,7 @@ Dallas Cowboys quarterback Dak Prescott will be our guest today!
  
 ![Picture1](https://user-images.githubusercontent.com/82842966/115437598-fc6a6500-a1d1-11eb-8d5f-6010dbeec304.png)
 
- 
+ ![Picture2](https://user-images.githubusercontent.com/82842966/115438015-84506f00-a1d2-11eb-8d8f-0aadac470f80.png)
 
 
 
