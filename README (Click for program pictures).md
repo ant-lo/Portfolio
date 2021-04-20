@@ -10,23 +10,26 @@ Dallas Cowboys quarterback Dak Prescott will be our guest today!
 
 
 
-READ
+READ<br>
 Great! Former Dallas Mavericks basketball player Dirk Nowitzki is also on the guest list.
+![Picture3](https://user-images.githubusercontent.com/82842966/115438141-a77b1e80-a1d2-11eb-9e19-25c6ed5dee5a.png)
  
-UPDATE
+UPDATE<br>
 Looks like Mr. Prescott will be bringing Dallas Cowboys owner Jerry Jones too!
+ ![Picture4](https://user-images.githubusercontent.com/82842966/115438561-283a1a80-a1d3-11eb-8713-5d60e04bf199.png)
  
- 
-DELETE
+DELETE<br>
 Darn! Dirk Nowitzki will no longer be joining our restaurant this evening. 
-
+![Picture5](https://user-images.githubusercontent.com/82842966/115438757-63d4e480-a1d3-11eb-8bda-36ee35156c4e.png)
  
  
+<br>
+<br>
 
 
 
-
-Backend
+Backend <br>
+![Picture6](https://user-images.githubusercontent.com/82842966/115438816-76e7b480-a1d3-11eb-9c77-665a21a9e872.png)
  
 
 
