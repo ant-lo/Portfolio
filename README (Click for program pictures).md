@@ -1,4 +1,4 @@
-<h1>About</h1><br>
+#About#<br>
 Mock Red Lobster Restaurant reservation system: includes website UI, Java backend, submissions fed to MySQL database (uses MVC design pattern, Spring Boot framework, and JSP). <br>
 A CRUD demo is shown below.
 
